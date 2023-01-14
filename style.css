@@ -1,0 +1,92 @@
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 2%;   
+}
+
+header > img{
+    width: 175px;
+    height: 80px;
+    padding-top: 60px;
+}
+
+header > h2{
+    color: rgb(26, 224, 8);
+    margin: 0;
+    padding-bottom: 5px;
+    font-family: 'Lucida Sans';
+    font-weight: lighter;
+}
+
+header, nav{
+    text-align: center;
+}
+
+nav{
+    padding: 10px;
+    background-color: rgb(26, 224, 8);
+    width: 700px;
+    margin: auto;
+}
+
+nav > button{
+    font-size: 12px;
+}
+
+main{
+    padding-bottom: 60px;
+    padding-left: 85px;
+    color: white; 
+}
+
+main h3, div{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+section > div{
+    font-size: smaller;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+section > h3{
+    margin: 0;
+    padding-top: 25px;
+}
+
+.row1{
+    width: 300px;
+    height: 20px;
+    background-color: rgb(230, 173, 67);
+    border-radius: 6%;
+}
+
+.row2{
+    width: 500px;
+    height: 20px;
+    background-color: rgb(51, 204, 51);
+    border-radius: 6%;
+}
+
+.row3{
+    width: 150px;
+    height: 20px;
+    background-color: rgb(192, 47, 47);
+    border-radius: 6%;
+}
+
+
+
+
+
+
+
+
+
